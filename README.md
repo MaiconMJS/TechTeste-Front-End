@@ -6,6 +6,20 @@ Este projeto é um sistema de autenticação e chat em tempo real, desenvolvido 
 ## Estrutura do Projeto
 A estrutura do projeto segue o padrão das aplicações Vue.js, organizada em pastas e arquivos que facilitam a manutenção e expansão do código. As principais pastas são:
 
+## Telas da Aplicação
+
+### Página de Login
+![Página de Login](assets/images/1.png)
+
+### Página de Chat
+![Página de Chat](assets/images/2.png)
+
+### Página de Chat - Mobile
+![Página de Chat - Mobile](assets/images/3.png)
+
+### Página de Login - Mobile
+![Página de Login - Mobile](assets/images/4.png)
+
 - **assets**: Contém arquivos estáticos, como imagens e estilos.
 - **components**: Reúne componentes reutilizáveis, como modais de erro e botões de navegação.
 - **views**: Contém as páginas principais (telas completas) da aplicação.
