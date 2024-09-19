@@ -20,7 +20,7 @@ A estrutura do projeto segue o padrão das aplicações Vue.js, organizada em pa
 ### Página de Login - Mobile
 ![Página de Login - Mobile](assets/images/4.png)
 
-### Página Tela Inicial HOME - Mobile
+### Página HOME todos os usuários conectado - Mobile
 ![Lista de Usuários conectados - Mobile](assets/images/5.png)
 
 - **assets**: Contém arquivos estáticos, como imagens e estilos.
