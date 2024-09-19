@@ -4,7 +4,7 @@
 Este projeto é um sistema de autenticação e chat em tempo real, desenvolvido utilizando **Vue.js 3**. Ele oferece funcionalidades como registro de usuários, login, verificação de conta via código, atualização de senha, e um chat em tempo real. Para a comunicação entre os componentes e a API, são usados **Axios** e **Socket.IO**. O gerenciamento de estado é feito com **Pinia**, enquanto o **Vue Router** cuida da navegação entre as páginas.
 
 ## Estrutura do Projeto
-A estrutura do projeto segue o padrão das aplicações Vue.js, organizada em pastas e arquivos que facilitam a manutenção e expansão do código. As principais pastas são:
+A estrutura do projeto segue o padrão das aplicações Vue.js, organizada em pastas e arquivos que facilitam a manutenção e expansão do código. As principais telas são:
 
 ## Telas da Aplicação
 
